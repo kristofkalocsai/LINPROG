@@ -1,0 +1,2 @@
+#define SHMKEY 784378
+#define MEMSIZE 10
