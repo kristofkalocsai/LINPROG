@@ -1,22 +1,21 @@
-## First LAB
+# LAB #1
 
-+ KDE
+### KDE
 
-+ glibc
+### glibc
 
-+ QtCreator
+### QtCreator
 
-+ git
-```
+### git
+  ```
 git checkout master
 git merge devel
 git devel
 \\ changes
 git commit
-git checkout master 
+git checkout master
 git merge --no-ff devel
 ```
+  do not forget to add your name and address to git, like i did
 
-do not forget to add your name and address to git, like i did
-
-git revert is the softer method for git reset
+  ```git revert``` is the softer method for git reset
